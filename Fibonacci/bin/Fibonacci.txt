@@ -1,0 +1,21 @@
+	How to write program for Fibonacci ?
+
+	first of all, need to understand how fibonacci works.. what is the algorithm 
+	or formula for that..
+
+	Addition of previous two number and printing that addition in the third variable
+	is nothing but the fibonacci..
+
+	0,1,1,2,3,5,8,13,21
+	
+	this is the example of fibonacci..
+
+	sum of previous two numbers..
+
+	1. Take two variables with default value 0 and 1
+	2. Now, take another variable, as third variable to store the sum of two numbers
+	3. Take one for loop to process till last value
+	4. print numbers and swap variables
+
+	note: There are many ways to get Fibonacci.. I've done with default values(hardcoded)
+			and gave input from user(using scanner())
