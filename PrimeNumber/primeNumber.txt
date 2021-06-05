@@ -1,0 +1,15 @@
+	How to find Prime numbers from given number ?
+	
+	First of all, understand that, what is prime number..
+	
+	The number which is divided by 1 or itself, those numbers are nothing but the 
+	prime numbers
+	
+	2,3,5,7,11,13,17,19
+	
+	these are the prime numbers..
+	
+	Prime numbers can't divided by other number.. 
+	Divided by only 1 or itself..
+	
+	
