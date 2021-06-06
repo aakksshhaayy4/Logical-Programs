@@ -1,0 +1,8 @@
+Factorial of number :
+			if you've entered 5 then its factorial is 120
+			here is the formula for factorial
+			5!=5*4*3*2*1
+			
+		decreasing the number and multiplying it and then in the result get factorial for inputed number
+		
+		
