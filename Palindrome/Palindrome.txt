@@ -1,0 +1,5 @@
+palindrome number is the number, that is same from front and back
+
+eg: 121, 85258
+
+eg: RAR, MADAM
